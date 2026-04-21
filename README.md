@@ -58,7 +58,7 @@ class AnshikaBajpai:
 </td>
 <td width="50%" valign="top">
 
-### 🚀 What I care about
+### What I care about
 - Building things that move from **idea → system → measurable impact**
 - AI that is useful outside demos
 - Strong engineering behind ML
