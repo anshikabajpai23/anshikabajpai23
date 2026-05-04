@@ -100,24 +100,10 @@ This was not just “chat with docs.” It was about making retrieval actually u
 **Why it matters**  
 I like ML work where results are visible, measurable, and tied to a meaningful use case.
 
----
-
-### 3) Promo code system for POS applications
-**Where:** Optum  
-**Built:** Secure promo code functionality with encryption logic for Point of Sale systems
-
-**Highlights**
-- Led a **team of four**
-- Worked with stakeholders during U.S. business hours
-- Delivered a feature tied to **10% improvement in engagement, retention, and profit**
-- Balanced backend logic, product needs, and coordination across teams
-
-**Why it matters**  
-It pushed me beyond coding into ownership, execution, and communication.
 
 ---
 
-### 4) Hindi tweet sentiment analysis research
+### 3) Hindi tweet sentiment analysis research
 **Built:** Research project on multilingual sentiment analysis  
 **Highlights**
 - Led the project end-to-end
